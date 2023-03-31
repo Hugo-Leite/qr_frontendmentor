@@ -14,7 +14,7 @@ body {
 .main {
   background-color: #ffffff;
   width: 33vh;
-  height: 51vh;
+  min-height: 51vh;
   margin: 150px auto;
   border-radius: 20px;
 }
